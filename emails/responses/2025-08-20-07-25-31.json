@@ -1,0 +1,13 @@
+{
+  "issueId": 2,
+  "responseType": "initial",
+  "attorney": "system",
+  "response": "Thank you for your email...",
+  "timestamp": "2025-08-20T07:25:31.904Z",
+  "status": "draft",
+  "metadata": {
+    "branch": "response/issue-2",
+    "filename": "2025-08-20-07-25-31.json",
+    "createdBy": "email-triage-system"
+  }
+}
